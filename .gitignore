@@ -39,3 +39,7 @@ Thumbs.db
 
 # Yerel gizli ayarlar
 **/appsettings.Development.json
+
+# Log dosyalari
+logs/
+*.log
